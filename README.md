@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Nisrine ED-Dahmany 👋
 
-<!--
-**nisrine-eddahmany/nisrine-eddahmany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 First-Year Computer Engineering Student  
+💻 Currently learning Python  
+🔐 Interested in Cybersecurity & Software Development  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I am a motivated computer engineering student building strong foundations in programming and problem-solving.  
+Currently focusing on Python and exploring cybersecurity fundamentals.
+
+---
+
+## 🛠 Skills
+- Python (Basics: loops, conditions, functions)
+- Git & GitHub
+- Algorithmic Thinking
+- Linux (Learning)
+
+---
+
+## 📌 Current Focus
+- Improving problem-solving skills
+- Building small Python projects
+- Learning cybersecurity basics
+
+---
+
+## 🎯 Goals 2026
+- Build 10+ Python projects  
+- Learn networking fundamentals  
+- Contribute to open-source projects  
+
+---
+
+## 📫 Contact
+📧 nisrine.eddahmany@gmail.com
