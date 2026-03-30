@@ -1,38 +1,27 @@
-# Hi, I'm Nisrine ED-Dahmany 👋
+# Hi 👋, I'm Nisrine ED-Dahmany
 
-🎓 First-Year Computer Engineering Student  
-💻 Currently learning Python  
-🔐 Interested in Cybersecurity & Software Development  
-
----
-
-## 🚀 About Me
-I am a motivated computer engineering student building strong foundations in programming and problem-solving.  
-Currently focusing on Python and exploring cybersecurity fundamentals.
+💻 Computer Engineering Student  
+🔐 Passionate about Cybersecurity  
+🐍 Currently learning Python  
 
 ---
 
-## 🛠 Skills
-- Python (Basics: loops, conditions, functions)
+## 🛠️ Skills
+- Python 🐍
+- C / C++
 - Git & GitHub
-- Algorithmic Thinking
-- Linux (Learning)
+- Linux Basics 🐧
 
 ---
 
-## 📌 Current Focus
-- Improving problem-solving skills
-- Building small Python projects
-- Learning cybersecurity basics
+## 🚀 Projects
+- 🔐 Password Generator (Python)
 
 ---
 
-## 🎯 Goals 2026
-- Build 10+ Python projects  
-- Learn networking fundamentals  
-- Contribute to open-source projects  
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=nisrine-eddahmany&show_icons=true&theme=tokyonight)
 
----
-
+![Streak](https://streak-stats.demolab.com?user=nisrine-eddahmany&theme=tokyonight)
 ## 📫 Contact
 📧 nisrine.eddahmany@gmail.com
